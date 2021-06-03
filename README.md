@@ -1,3 +1,14 @@
-<p align="center">
-  <img src="https://qpeckin.tech/3y6NKqUn7g6V/Gw38QV2ccsN2/nyan_cat.gif?w=788" />
-</p>
+👑 qpeckin 👑
+
+### 🚀 Social link:
+Discord Logo Discord - Gloutoblop#3075
+Steam Logo Steam - id/Gloutoblop
+Youtube Logo Youtube - Gloutoblop
+Twitch Logo Twitch - GloutoblopFR
+You can DMs on steam, discord or forums.
+
+### 🌈 Here some of my projects:
+node:
+[Steam Trades Boost](https://github.com/qpeckin/steam-trade-farm)
+...
+...
