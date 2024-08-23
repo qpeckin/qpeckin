@@ -7,7 +7,7 @@
 
 - 🔗 You can see my links at **https://fakecrime.bio/qpeckin**
 
-- 📫 My Discord server is **https://discord.gg/qpeckin-s-warehouse-697320717821411348**
+- 📫 My Discord server is **https://discord.gg/qpeckin**
 
 <p align="left">
 </p>
