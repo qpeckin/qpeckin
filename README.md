@@ -7,7 +7,7 @@
 
 - 🔗 You can see my links at **https://fakecrime.bio/qpeckin**
 
-- 📫 My Discord server is **https://discord.gg/qpeckin**
+- 📫 My Discord server is **https://discord.gg/forgers**
 
 <p align="left">
 </p>
